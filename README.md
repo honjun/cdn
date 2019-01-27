@@ -1,2 +1,0 @@
-# cdn
-jsDeliver Cdn
